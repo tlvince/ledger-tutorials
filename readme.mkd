@@ -1,0 +1,14 @@
+# ledger-tutorials
+
+Converts Pete Keen's excellent [Ledger tutorials][1] to eBook format.
+
+## Author
+
+Copyright 2012 Tom Vincent <http://tlvince.com/contact>
+
+## License
+
+Released under the [MIT License][license].
+
+  [1]: http://bugsplat.info/ledger.html
+  [license]: http://tlvince.mit-license.org/

@@ -1,0 +1,5 @@
+http://bugsplat.info/2010-05-23-keeping-finances-with-ledger.md
+http://bugsplat.info/2011-07-09-program-your-finances-reporting-for-fun-and-profit.md
+http://bugsplat.info/2011-08-04-program-your-finances-vacation-tracking.md
+http://bugsplat.info/2011-12-18-program-your-finances-automated-transactions.md
+http://bugsplat.info/2012-01-01-a-robust-reporting-system-for-ledger.md
