@@ -2,6 +2,16 @@
 
 Converts Pete Keen's excellent [Ledger tutorials][1] to eBook format.
 
+## Usage
+
+0. Retrieve and prepare the source content:
+
+        make retrieve postprocess
+
+1. Generate ebooks:
+
+        make
+
 ## Author
 
 Copyright 2012 Tom Vincent <http://tlvince.com/contact>
