@@ -7,7 +7,7 @@ all: epub mobi
 
 retrieve:
 	mkdir -p $(out)
-	cd $(out); for i in $(source); do curl -L -O $$i.md; done
+	cd $(out); for i in $(source); do curl -L -O $$i; done
 
 postprocess:
 	sed -i \

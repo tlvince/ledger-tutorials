@@ -1,5 +1,5 @@
-https://www.petekeen.net/keeping-finances-with-ledger
-https://www.petekeen.net/program-your-finances-reporting-for-fun-and-profit
-https://www.petekeen.net/program-your-finances-vacation-tracking
-https://www.petekeen.net/program-your-finances-automated-transactions
-https://www.petekeen.net/a-robust-reporting-system-for-ledger
+https://www.petekeen.net/keeping-finances-with-ledger.md
+https://www.petekeen.net/program-your-finances-reporting-for-fun-and-profit.md
+https://www.petekeen.net/program-your-finances-vacation-tracking.md
+https://www.petekeen.net/program-your-finances-automated-transactions.md
+https://www.petekeen.net/a-robust-reporting-system-for-ledger.md
