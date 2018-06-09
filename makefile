@@ -20,7 +20,8 @@ postprocess:
 
 epub:
 	mkdir -p $(out)
-	pandoc --standalone --normalize --smart --to=epub --epub-metadata $(metadata) \
+	pandoc --from markdown+smart --to=epub \
+		--epub-metadata=$(metadata) \
 		--toc --output=$(out)/$(filename).epub $(out)/*.md
 
 mobi: epub
